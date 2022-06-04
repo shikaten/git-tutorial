@@ -1,4 +1,5 @@
 # git tutorlal
 
   - feature-A
-  - fix-B
+  - fix-
+  - feature-C
